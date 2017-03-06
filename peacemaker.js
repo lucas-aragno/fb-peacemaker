@@ -61,3 +61,4 @@ function handleText(textNode) {
             textNode.nodeValue = lyrics[Math.floor(Math.random() * lyrics.length)]
         }
     })
+}
