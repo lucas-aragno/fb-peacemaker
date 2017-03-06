@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+  "name": "FB Peacemaker - Argentina",
+  "description": "Chrome extension to avoid conflict on FB (for Argentina)",
+  "version": "1.0",
+  "browser_action": {
+    "default_icon": "peacemaker.png"
+  },
+  "content_scripts":
+    [
+      {
+        "matches": ["*://*/*"],
+         "js": ["peacemaker.js"],
+         "run_at": "document_end"
+      }
+    ]
+}
