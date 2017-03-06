@@ -7,7 +7,7 @@ de smashmouth, michael jackson, los beatles y no me acuerdo que mas le puse.
 ![demo](docs/JLljfpNsEz.gif)
 
 ## Por Qué?
-porque tenia que hacer algo mientras se hacian los fiedos
+porque tenia que hacer algo mientras se hacian los fideos
 
 ## Como lo instalo?
 algun dia lo subo al store de chrome pero es facil instalarlo a manopla
