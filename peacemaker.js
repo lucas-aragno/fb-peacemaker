@@ -33,6 +33,7 @@ function handleText(textNode) {
     var stupidArguments = [
         'macri',
         'cristina kirchner',
+        'kirchner',
         'presidenta'
     ]
 
